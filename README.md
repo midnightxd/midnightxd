@@ -39,6 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardimelo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardi Melo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/midnightxd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-midnightxd-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/midnightxd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-__midnightxd__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:leonardimelo18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leonardimelo18@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
