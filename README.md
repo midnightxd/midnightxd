@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 <h5>Connect with Me </h5>
 
