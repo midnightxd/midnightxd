@@ -40,5 +40,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 <a href="https://www.instagram.com/__midnightxd__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-midnightxd-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:leonardimelo18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leonardimelo18@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:leonardimelo18@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leonardimelo43@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
