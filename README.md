@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=midnightxd)
+![](https://komarev.com/ghpvc/?username=midnightxd&style=plastic&color=green)
 <h1 align="center">Hi 👋, I'm Leonardi</h1>
 <h3 align="center">opensource enthusiast</h3>
 
